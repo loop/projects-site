@@ -1,0 +1,10 @@
+# Site settings
+title: Yogesh Nagarur - Projects
+tag_text: Projects
+description: Projects Website
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
