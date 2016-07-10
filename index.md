@@ -26,4 +26,4 @@ A prototype robot control software in Java that observes and acts upon a simulat
 
 ### More...
 
-You can find more projects and things I'm currently hacking together on [GitHub](https://github.com/loop).
+You can find more projects I'm currently hacking together on [GitHub](https://github.com/loop).
